@@ -1,2 +1,2 @@
-# ThreadTests
+# New-Tests
 Thread study
